@@ -2,4 +2,7 @@
 <resources>
     <string name ="app_name">Simulador</string>
     <string name="txtSimulate">Botão de simulaçao de partidas</string>
+    <string name="txt_home_team">Imagem do time de casa</string>
+    <string name="txt_away_team">Imagem do time de fora</string>
+    <string name="error_api">Erro inesperado</string>
 </resources>
